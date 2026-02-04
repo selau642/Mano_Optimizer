@@ -12,5 +12,5 @@ This is a reimplimentation of the optimizer invented by Yufei Gu and Zeke Xie
 ```
 
 # Key properties
-Normalizes weight matrix via Sinkhorn-Knopp algorithm to ensure weight matrix are doubly stochastic matrix.  
-both column space and row space vectors normalized to 1.  
+1. This optimizer normalizes weight matrix via Sinkhorn-Knopp algorithm to ensure weight matrix are doubly stochastic matrix.  
+2. Both column space and row space vectors in a M x N matrix are normalized to unit norm.  
