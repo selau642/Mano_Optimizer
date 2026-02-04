@@ -1,11 +1,11 @@
 
-# Manu Optimizer
+# Mano Optimizer
 This is a reimplimentation of the optimizer invented by Yufei Gu and Zeke Xie  
 
 ```
 @misc{
   author       = {Yufei Gu and Zeke Xie},
-  title        = {Manu: Restriking Manifold Optimization for LLM Trainingj},
+  title        = {Mano: Restriking Manifold Optimization for LLM Trainingj},
   year         = {2026},
   url          = {https://arxiv.org/pdf/2601.23000/}
 }
