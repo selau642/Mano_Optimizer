@@ -1,5 +1,5 @@
 
-#Manu Optimizer
+# Manu Optimizer
 This is a reimplimentation of the optimizer invented by Yufei Gu and Zeke Xie  
 
 ```
